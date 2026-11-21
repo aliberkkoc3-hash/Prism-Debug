@@ -1,0 +1,17 @@
+{
+    "title": "Prism Debug",
+    "description": "Prism Crew Debug Sistemi V-Slice.",
+    "contributors": [
+        {
+            "name": "BFAli",
+            "role": "Kodlama ve Düzenleme"
+        },
+        {
+            "name": "Prism Crew",
+            "role": "UX ve UI Tasarımı"
+        }
+    ],
+    "api_version": "0.8.6",
+    "mod_version": "0.0.1",
+    "license": "PCSL"
+}
